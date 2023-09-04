@@ -1,0 +1,35 @@
+.navbar1{
+    margin:0;
+    
+    display:flex;
+    
+    align-items:end;
+    background-color: rgb(218, 202, 202);
+}
+ .links{
+    display:flex;
+    text-align: right;
+    text-emphasis-color:antiquewhite;
+    justify-content:space-around;
+    align-items:end;
+    list-style: none;
+    margin: 0;
+    margin-left: 230px;
+    padding:2px;
+    word-spacing: 10px;
+    background-color: rgb(209, 200, 200);
+    color:antiquewhite;
+    
+} 
+
+.nav-links{
+    display:flex;
+    list-style:none;
+    justify-content:none;
+    align-items:left;
+    margin:0;
+    margin-left: 60px;
+    background-color: rgb(209, 200, 200);
+    color:antiquewhite;
+    
+}
